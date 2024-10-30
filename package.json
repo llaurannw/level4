@@ -1,0 +1,10 @@
+{
+  "name": "Restoran",
+  "version": "1.0.0",
+  "description": "Manajemen sederhana untuk restoran menggunakan JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Lauran"
+}
